@@ -18,6 +18,9 @@ Debug Phone plugged in Watch NOT plugged in.
 Tap the send message buttons to send messages.
 
 Thanks
+
 John Goodstadt
+
 Senior Smartphone Developer
+
 https://uk.linkedin.com/pub/john-goodstadt/20/247/659
