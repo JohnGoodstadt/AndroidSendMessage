@@ -9,7 +9,11 @@ Android Wear on LG G Watch R
 
 Plug in an Android Wear Watch. Install both on an Android Phone and an Android Watch.
 
-To debug over bluetooth follow these instructions - Phone plugged in Watch NOT plugged in.
+To debug over bluetooth follow these Android instructions -
+
+http://developer.android.com/training/wearables/apps/bt-debugging.html
+
+Debug Phone plugged in Watch NOT plugged in.
 
 Tap the send message buttons to send messages.
 
